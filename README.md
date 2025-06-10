@@ -72,4 +72,3 @@ The completed project provides a fully functional data warehouse that consolidat
 
 ---
 
-Happy exploring and querying! 🚀
