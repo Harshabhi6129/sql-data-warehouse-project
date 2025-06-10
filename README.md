@@ -78,5 +78,4 @@ These insights empower stakeholders with key business metrics for strategic deci
 
 ---
 
-## 📁 Repository Structure (Suggested)
 
